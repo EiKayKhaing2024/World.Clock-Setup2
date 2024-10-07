@@ -1,0 +1,22 @@
+.container{
+    background:aliceblue;
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    border-radius: 20px;  
+
+}
+
+
+
+h1{
+ text-align: center;
+ color:blueviolet;
+ font-size: 24px;   
+}
+
+footer{
+    text-align: center;
+    color:brown;
+    font-size: 15px;
+}
